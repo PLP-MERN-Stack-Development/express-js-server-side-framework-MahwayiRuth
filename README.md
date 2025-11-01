@@ -360,16 +360,6 @@ API_KEY=secret-api-key-123
 - Search endpoint for products by name
 - Statistics endpoint (count by category)
 
-## Tips for Mobile Development
-
-Since you're working on mobile:
-1. Use a text editor app that supports coding
-2. Test the API using apps like:
-   - **HTTP Request Maker**
-   - **REST Client**
-   - **API Tester**
-3. You can also use online tools like **Replit** or **CodeSandbox** for coding and testing
-4. Make sure to copy all files (server.js, package.json, README.md, .env.example)
 
 ## License
 
